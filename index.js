@@ -17,3 +17,5 @@ privateValue.setValue(52);
 console.log(privateValue.getValue());
 privateValue.setValue(5);
 console.log(privateValue.getValue());
+privateValue.setValue(15);
+console.log(privateValue.getValue());
