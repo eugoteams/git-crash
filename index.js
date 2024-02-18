@@ -17,3 +17,8 @@ privateValue.setValue(52);
 console.log(privateValue.getValue());
 privateValue.setValue(5);
 console.log(privateValue.getValue());
+
+/** Hoisting */
+console.log(age);
+var age = 32;
+console.log(age);
